@@ -43,7 +43,7 @@
 A proposta dos Exercicios de Ciclo de Vida, requisições e estilizações com Tailwind e typscript , é realmente fazer exercicios para entender o funcionamento do framework tailwind com react. Além de entender conceitos como:
 
 <ul>
-  <li>💹 Ciclos de vida de um componente (useState)</li>
+  <li style="list-style:none;">💹 Ciclos de vida de um componente (useState)</li>
   <li>💹 Trabalhar com useEffect</li>
   <li>💹 usar states de loading de requisições</li>
   <li>💹 Lidar com erros usando try-catch </li>
